@@ -1,0 +1,5 @@
+FlightNumber,Departure,Arrival,DepartureDateTime,ArrivalDateTime,Duration,Airline,CabinClass,Price,SeatAvailability,MealOptions
+AA101,LAX,JFK,2023-06-01 06:00,2023-06-01 15:30,9h 30m,American Airlines,Economy,250000,Available,Vegetarian
+UA202,ORD,LHR,2023-06-02 14:00,2023-06-03 06:30,8h 30m,United Airlines,Business,120000,Available,Kosher
+DL303,SFO,DXB,2023-06-03 11:30,2023-06-04 12:45,17h 15m,Delta Airlines,First Class,500000,Available,Halal
+BA404,LHR,BKK,2023-06-04 09:00,2023-06-05 01:45,12h 45m,British Airways,Economy,800000,Sold Out,Standard
